@@ -1,2 +1,2 @@
 # Kipu-ejemplo1
-Este es mi primer repositorio de solitity
+Este es mi primer repositorio de Solitity del curso de Kipu
